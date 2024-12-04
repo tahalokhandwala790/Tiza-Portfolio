@@ -55,7 +55,7 @@ export const myProjects = [{
     desc: '"Delicacy" is an exquisite restaurant website crafted to offer users a sophisticated and interactive online experience. The site boasts a sleek interface with engaging animations and interactive features, highlighting Delicacys gourmet offerings and exceptional dining atmosphere.',
     subdesc: 'The website is developed using modern web technologies such as HTML, CSS, and React.',
     href: 'https://delicacy-taha.netlify.app/',
-    texture: '/textures/project/project1.mp4',
+    texture: 'https://youtu.be/vs_f2rGhaTw',
     logo: '/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -89,8 +89,8 @@ export const myProjects = [{
     title: 'Tazza - Fresh Vegetable E-commerce Website',
     desc: '"Tazza" is a fresh and vibrant e-commerce website designed to offer users a seamless and engaging online shopping experience. The website features a clean and intuitive interface, enriched with interactive elements and animations, showcasing Tazzas wide range of fresh vegetables',
     subdesc: 'The website is developed using modern web technologies such as HTML, CSS, Tailwind CSS, and React.',
-    href: 'https://tahalokhandwala790.github.io/pesto-webapp/',
-    texture: '/textures/project/project2.mp4',
+    href: 'https://tahalokhandwala790.github.io/Tazza/',
+    texture: 'https://youtu.be/vcjNr0vGQuU',
     logo: '/assets/project-logo2.png',
     logoStyle: {
       backgroundColor: '#13202F',
@@ -124,8 +124,8 @@ export const myProjects = [{
     title: 'Pesto - Dynamic Restaurant Website',
     desc: '"Pesto" is a dynamic restaurant website designed to provide users with an engaging online experience. The site features a vibrant interface enriched with animations and interactive elements, showcasing Pestos culinary delights and dining experiences.',
     subdesc: 'The website is built using modern web development technologies such as HTML, CSS, and React.',
-    href: 'https://tahalokhandwala790.github.io/Tazza/',
-    texture: '/textures/project/project3.mp4',
+    href: 'https://tahalokhandwala790.github.io/pesto-webapp/',
+    texture: 'https://youtu.be/rNlfrjeylcE',
     logo: '/assets/project-logo3.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
@@ -176,7 +176,7 @@ export const workExperiences = [{
     pos: 'Pro Front-End Developer',
     duration: '2024 - Present',
     title: "At the beginning of my journey, I focused on HTML, CSS, and JavaScript, mastering these essential web technologies. I learned to structure content with HTML, style it with CSS, and add interactivity using JavaScript. Additionally, I understood the backend basics of handling messages and contact forms, ensuring seamless data delivery..",
-    icon: '/assets/st1.png',
+    icon: '/assets/st1.jpg',
     animation: 'victory',
   },
   {
@@ -185,7 +185,7 @@ export const workExperiences = [{
     pos: 'Front-End Developer',
     duration: '2023 - 2024',
     title: "With a solid foundation, I transitioned to React for advanced front-end development. I learned to build reusable components, manage state efficiently, and implement smooth navigation using React Router. This stage was pivotal in enhancing my skills in creating dynamic and interactive user interfaces.",
-    icon: '/assets/st2.png',
+    icon: '/assets/st2.jpg',
     animation: 'clapping',
   },
   {
@@ -194,7 +194,7 @@ export const workExperiences = [{
     pos: 'Junior Web Developer',
     duration: '2022 - 2023',
     title: "Finally, I explored Three.jsand advanced animations. I mastered creating and integrating 3D models with React Three Fiber, enhancing my ability to craft visually captivating and user-friendly websites. Using libraries like GSAP, I added complex animations, making my websites stand out with stunning visuals and interactivity.",
-    icon: '/assets/st3.png',
+    icon: '/assets/st3.jpg',
     animation: 'salute',
   },
 ];
